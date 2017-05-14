@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
-    <system systemId="http://192.168.1.113:8080/LaruralJavaEnvironment/servlet/aprcinscotizacionplan_ren_ws?wsdl" uri="wsdl/192.168.1.113_8080/LaruralJavaEnvironment/servlet/aprcinscotizacionplan_ren_ws.wsdl"/>
-</catalog>
